@@ -86,6 +86,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 
 ```
 - [Puneet Tiwari](https://github.com/puneett28)
+- [Fiza khatoon](https://github.com/Fiza-1300)
 ```
 
 _Add your name and GitHub profile link above this line._
